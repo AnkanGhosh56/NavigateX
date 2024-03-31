@@ -28,7 +28,7 @@ NavigateX, an autonomous driving system, leverages advanced neural networks and 
 4. Press CTRL + A to clear the screen in the PyCharm .
 5. To the terminal of the Pycharm , run the following comment:
  
-     *pip install pygame*
+       pip install pygame
    
 ## Usage
  - Go to the VSCode and  run our python scripts to view our project,NavigateX.
