@@ -1,4 +1,5 @@
 # Ureck-a-thon 4.0
+AI/ML
 
 # NavigateX
 "Seize the wheel of tomorrow with NavigateX, your trusty navigator in the age of autonomy."
@@ -12,10 +13,12 @@ Heva.ai
 ## Proposed Solution
 NavigateX, an autonomous driving system, leverages advanced neural networks and real-time data analysis to enhance safety, optimize traffic flow, improve accessibility, reduce environmental impact, and boost productivity. By integrating cutting-edge technology, it offers a comprehensive solution for efficient and secure transportation in diverse environments.
 
-##Track: AI/ML
+
 
 ## Tech Stacks
 Python, Flask, Django, Figma,LLM,NLP,VSCODE,Deep Neural Networks,Computer Vision.
+
+## Track: AI/ML
 
 ## Contributors
 - Ankan Ghosh
