@@ -9,7 +9,7 @@ Heva AI
 ## Problem Solution
 NavigateX, an autonomous driving system, leverages advanced neural networks and real-time data analysis to enhance safety, optimize traffic flow, improve accessibility, reduce environmental impact, and boost productivity. By integrating cutting-edge technology, it offers a comprehensive solution for efficient and secure transportation in diverse environments.
 ## Tech Stacks
-Python, Flask, Django, Figma,LLM,NLP,VSCODE
+Python, Flask, Django, Figma,LLM,NLP,VSCODE,Deep Neural Networks,Computer Vision
 
 
 ## License
