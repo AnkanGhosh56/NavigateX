@@ -35,5 +35,5 @@ Thank you for using NavigateX .
 
 **Angry Nerds**
 
-<h1 align="center">Show some ❤ by starring some of the repositories!🌠</h1> 
+<h1 align="center">Show some ❤ by starring this repositories!🌠</h1> 
 
