@@ -17,5 +17,12 @@ Python, Flask, Django, Figma,LLM,NLP,VSCODE,Deep Neural Networks,Computer Vision
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Feedback
+We welcome feedback and contributions. Feel free to open an issue or submit a pull request.
+
+Thank you for using NavigateX . 
+
+**Angry Nerds**
 # Hackathon 
 
