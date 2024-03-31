@@ -34,5 +34,6 @@ We welcome feedback and contributions. Feel free to open an issue or submit a pu
 Thank you for using NavigateX . 
 
 **Angry Nerds**
-# Hackathon 
+
+<h1 align="center">Show some ❤ by starring some of the repositories!🌠</h1> 
 
