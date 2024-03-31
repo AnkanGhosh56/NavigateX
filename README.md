@@ -16,10 +16,23 @@ NavigateX, an autonomous driving system, leverages advanced neural networks and 
 
 
 ## Tech Stacks
-- Python, Flask, Django, Figma,LLM,NLP,VSCODE,Deep Neural Networks,Computer Vision.
+- Python, Flask, Django, Figma, LLM, NLP, VSCODE Deep Neural Networks, and Computer Vision.
 - Other Tools: Git, GitHub
 
 ## Track: AI/ML
+
+## Installation Guide
+1. Fork and clone the repository
+2. Install PyCharm (if not installed to your system)
+3. Make a new project and give a name to your project
+4. Press CTRL + A to clear the screen in the PyCharm .
+5. To the terminal of the Pycharm , run the following comment:
+ 
+     *pip install pygame*
+   
+## Usage
+ - Go to the VSCode and  run our python scripts to view our project,NavigateX.
+
 
 ## Contributors
 - Ankan Ghosh
