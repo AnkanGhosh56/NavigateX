@@ -16,7 +16,8 @@ NavigateX, an autonomous driving system, leverages advanced neural networks and 
 
 
 ## Tech Stacks
-Python, Flask, Django, Figma,LLM,NLP,VSCODE,Deep Neural Networks,Computer Vision.
+- Python, Flask, Django, Figma,LLM,NLP,VSCODE,Deep Neural Networks,Computer Vision.
+- Other Tools: Git, GitHub
 
 ## Track: AI/ML
 
